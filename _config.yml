@@ -12,5 +12,9 @@ color:
     - '#8E2800'
 layout_spectrum: 0.015488228062167764
 name: Our Wedding in La Palma
+navigation:
+  - name: The Two of Us
+    id: 240e2f3e-92c6-4ebe-bf27-5e5978d17ad2
+    type: content
 title: November 4 - Puntagorda & Tijarafe
 description: Yunior and Alex invite you to their wedding!
