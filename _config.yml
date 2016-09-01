@@ -1,16 +1,16 @@
-typography_spectrum: 0.4198507866822183
+layout_spectrum: 0.12852492136880755
+typography_spectrum: 0.4041191942524165
 color:
-  brandStrength: 0.8200869290158153
-  lightness: 0.22314034029841423
-  saturation: 0.24640324828214943
-  rhythmicContrast: 0.6340326843783259
+  brandStrength: 0.2066195944789797
+  lightness: 0.4564826376736164
+  saturation: 0.426114764995873
+  rhythmicContrast: 0.7389570020604879
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.015488228062167764
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
 name: Our Wedding in La Palma
 navigation:
   - name: The Two of Us
