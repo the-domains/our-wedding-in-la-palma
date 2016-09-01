@@ -40,5 +40,8 @@ navigation:
   - name: The Venue
     id: 1e32d22c-aff1-4606-8f0f-35e3de83ddfb
     type: content
+  - name: Links
+    id: 788c2d3c-5afb-4cd4-9584-3f6967fcab57
+    type: content
 title: November 4 - Puntagorda & Tijarafe
 description: Yunior and Alex invite you to their wedding!
