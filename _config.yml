@@ -1,47 +1,14 @@
-layout_spectrum: 0.12852492136880755
-typography_spectrum: 0.4041191942524165
+layout_spectrum: 0.015488228062167764
+typography_spectrum: 0.4198507866822183
 color:
-  brandStrength: 0.2066195944789797
-  lightness: 0.4564826376736164
-  saturation: 0.426114764995873
-  rhythmicContrast: 0.7389570020604879
+  brandStrength: 0.8200869290158153
+  lightness: 0.22314034029841423
+  saturation: 0.24640324828214943
+  rhythmicContrast: 0.6340326843783259
   brandColors:
-    - '#88A825'
-    - '#35203B'
-    - '#911146'
-    - '#CF4A30'
-    - '#ED8C2B'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: Our Wedding in La Palma
-navigation:
-  - name: The Two of Us
-    id: 240e2f3e-92c6-4ebe-bf27-5e5978d17ad2
-    type: content
-  - name: The Marriage
-    id: 61707abc-b70f-4ba0-b78c-9ff39ef87285
-    type: content
-  - name: The Party
-    id: 5788c24a-8717-4b2b-b12d-8e8b8a2fd13f
-    type: content
-  - name: Accomodation
-    id: 4f7918d1-acce-4900-abd7-aa170a43bad5
-    type: content
-  - name: The Island
-    id: 0819e896-5c96-416c-b14d-9d5e47b6b39e
-    type: content
-  - name: Transport
-    id: e281ef6a-3e03-42c5-bab1-44200e493bc9
-    type: content
-  - name: Miscellanious
-    id: 3062f84e-201b-44e5-90f4-55fc8b0184d7
-    type: content
-  - name: Memories
-    id: 00714bb6-16d9-47b9-8a97-f0decfb2fa59
-    type: content
-  - name: The Venue
-    id: 1e32d22c-aff1-4606-8f0f-35e3de83ddfb
-    type: content
-  - name: Links
-    id: 788c2d3c-5afb-4cd4-9584-3f6967fcab57
-    type: content
-title: November 4 - Puntagorda & Tijarafe
-description: Yunior and Alex invite you to their wedding!
